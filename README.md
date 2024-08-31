@@ -1,2 +1,2 @@
 # Market_Segmentation_Analysis
-Converted R program into Python Programming Language.
+code replication for fast food case study. 
